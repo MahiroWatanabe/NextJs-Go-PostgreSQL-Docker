@@ -7,7 +7,6 @@ WORKDIR /app
 # キャッシュ利用で効率化するために別でコピー
 COPY package.json package-lock.json ./
 
-
 # ソースコードをコピー
 COPY . .
 
