@@ -1,5 +1,7 @@
-#Docker環境構築済みディレクトリ
+# Docker環境構築済みディレクトリ
 <p></p>
-frontend:NextJs
-backend:Go
-db:postgreSql
+<p>frontend：NextJs</p>
+<p>backend：Go</p>
+<p>db：postgreSql</p>
+
+
